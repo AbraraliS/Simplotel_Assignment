@@ -2,6 +2,10 @@
 
 A fully responsive static webpage built with pure HTML5 and CSS3.
 
+## Live Demo
+
+🔗 [View Live Demo](https://abraralis.github.io/Simplotel_Assignment/)
+
 ## Features
 
 - **Responsive Design**: Adapts seamlessly to desktop, tablet, and mobile devices
